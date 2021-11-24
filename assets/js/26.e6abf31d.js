@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{548:function(t,s,e){"use strict";e.r(s);var n=e(8),i=Object(n.a)({},(function(){var t=this.$createElement,s=this._self._c||t;return s("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[s("img",{attrs:{src:this.$withBase("/img/2.jpg"),alt:"图片"}})])}),[],!1,null,null,null);s.default=i.exports}}]);
